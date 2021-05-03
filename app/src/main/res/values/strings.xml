@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordTransferBackwards</string>
+    <string name="buttonLabel">Spell it backwards</string>
+    <string name="hint">Enter the word here</string>
+</resources>
